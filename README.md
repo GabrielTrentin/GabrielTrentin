@@ -17,3 +17,5 @@ Olá, me chamo  Gabriel Trentin👋
 <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> 
 <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
 <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+
+  ## Amo pensar o conceito que a tecnologia nos proporcionou ao passar dos tempos da humanidade, se pensar bem é magnifico o avanço da tecnologia, o quanto evoluimos como humanidade, é uma magia inexplicável.
